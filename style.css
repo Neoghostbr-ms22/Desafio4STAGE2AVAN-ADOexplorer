@@ -96,6 +96,11 @@ footer {
     text-align: center;
 }
 
+#footer {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
 line {
   position: absolute;
   width: 568px;
